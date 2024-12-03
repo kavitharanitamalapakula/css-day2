@@ -48,7 +48,8 @@
     width: 300px;
     height: 200px;
     background-color: rgb(240, 13, 160);
-    text-align: center;
+    margin: 0 auto;
+    align-items: center;
 }
 .e, .f {
     width: 200px;
