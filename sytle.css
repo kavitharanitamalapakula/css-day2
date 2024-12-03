@@ -41,7 +41,7 @@
     margin-bottom: 30px;
     align-items: center;
     display: flex;
-    justify-content: center; 
+    justify-content: center;
     margin: 0;
 }
 
@@ -50,9 +50,10 @@
     height: 200px;
     background-color: rgb(240, 13, 160);
     align-items: center;
-    display: flex; 
-    justify-content: center;          
+    display: flex;
+    justify-content: center;
 }
+
 .e,
 .f {
     width: 200px;
